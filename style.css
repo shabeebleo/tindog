@@ -1,0 +1,57 @@
+.search-input {
+    display: none;
+}
+#navbarSupportedContent > ul > li:nth-child(n) > a{
+    color: white;
+    font-weight: 600;
+}
+#navbarSupportedContent > ul > li:nth-child(n) > a:hover{
+    color: rgb(236, 143, 22);
+}
+
+.bg-img {
+    background-image: url("./images/asset 12.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 155vh;
+    z-index: -1;
+}
+.navbar {
+    background-color: transparent;
+}
+
+
+.section2 {
+    width: 100%;
+    
+    background-color: white;
+    margin-top: -279px;
+
+}
+.button4blog {
+    background-color: #FFB100;
+    width: 8rem;
+    height: 4rem;
+    border-radius: .5rem !important;
+    letter-spacing: 4px;
+    font-weight: 700 !important;
+    border: none;
+    outline: none;
+}
+
+.button4blog:hover {
+    background-color: rgba(207, 176, 176, 0.658);
+}
+
+
+.section3{
+   position: relative;
+}
+
+.list{
+    list-style: none;
+}
+#hov:hover{
+color: yellow
+}
